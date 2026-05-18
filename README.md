@@ -10,6 +10,7 @@ I'm currently based in Minneapolis and looking for roles in environmental
 analysis, GIS, and sustainability. Feel free to reach out!
 
 📧 mariapham_@outlook.com
+
 🔗 linkedin.com/in/-maria-pham-
 
 ---
