@@ -1,6 +1,6 @@
  ArcGIS Maps - Maria Pham
 
-Hi, welcome to my page. Glad you made it here! My name is Maria, and I'm a Geography grad from the University of Minnesota 
+Hi, glad you made it here and welcome to my page! My name is Maria, and I'm a Geography grad from the University of Minnesota 
 with a concentration in GIS and environmental systems. I made these maps 
 in ArcGIS through my GIS for Natural Resources course and honestly fell 
 in love with how much you can communicate through spatial data. This repo 
