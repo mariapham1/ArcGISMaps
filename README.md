@@ -1,4 +1,4 @@
- ArcGIS Maps — Maria Pham
+ ArcGIS Maps - Maria Pham
 
 Hi, welcome to my page. Glad you made it here! My name is Maria, and I'm a Geography grad from the University of Minnesota 
 with a concentration in GIS and environmental systems. I made these maps 
